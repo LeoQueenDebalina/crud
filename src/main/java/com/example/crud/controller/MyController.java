@@ -1,4 +1,4 @@
-package com.example.crud.contrller;
+package com.example.crud.controller;
 
 import com.example.crud.entity.MyEntity;
 import com.example.crud.service.MyService;
